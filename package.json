@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/gitaoliao/AngelaNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitaoliao/AngelaNode/issues"
+  },
+  "homepage": "https://github.com/gitaoliao/AngelaNode#readme"
+}
