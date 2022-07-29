@@ -1,0 +1,1 @@
+module.exports = 'soyeahhh from webpack'
